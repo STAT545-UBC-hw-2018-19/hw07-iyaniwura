@@ -1,4 +1,4 @@
-# Homework 6: Data wrangling wrap up
+# Homework 7: Building your own R package
 
 In this homework, we learn how to write a function in R, cleaning of data, working with lists using `purrr` package. 
 
